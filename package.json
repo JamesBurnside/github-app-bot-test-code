@@ -1,0 +1,24 @@
+{
+  "name": "acs-ui-library-bot-test-code",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "probot run ./index.cjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "octokit": "4.0.2",
+    "probot": "12.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesBurnside/acs-ui-library-bot-test-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesBurnside/acs-ui-library-bot-test-code/issues"
+  },
+  "homepage": "https://github.com/JamesBurnside/acs-ui-library-bot-test-code#readme"
+}
